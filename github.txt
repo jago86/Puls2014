@@ -1,1 +1,2 @@
 Text inicial
+Más instrucciones sobre git
