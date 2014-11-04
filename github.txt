@@ -1,2 +1,3 @@
-Text inicial
+TITULO DEL DOCUMENTO
 Más instrucciones sobre git
+Instrucciones finales
